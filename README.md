@@ -4,3 +4,5 @@ Progam that calculates how long it will take for you to hit the jackpot in lotte
 ## How to use
 This app is run in the command line. While starting the app, you can give seven numbers as arguments while starting and the app will take them in as your lottery numbers. 
 If you don't give any arguments, the app will ask you for the numbers one by one. Numbers have to be from the range of 1-40
+
+[alt text](https://github.com/MikaKivennena/lottery-app/blob/main/img/LotteryEnd.PNG?raw=true "Lottery end screen")
