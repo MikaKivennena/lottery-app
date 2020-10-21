@@ -6,3 +6,5 @@ This app is run in the command line. While starting the app, you can give seven 
 If you don't give any arguments, the app will ask you for the numbers one by one. Numbers have to be from the range of 1-40
 
 ![alt text](https://github.com/MikaKivennena/lottery-app/blob/main/img/LotteryEnd.PNG?raw=true "Lottery end screen")
+![alt text](https://github.com/MikaKivennena/lottery-app/blob/main/img/LotteryStartArgs.PNG?raw=true "Lottery Start with Arguments")
+![alt text](https://github.com/MikaKivennena/lottery-app/blob/main/img/LotteryStart.PNG?raw=true "Lottery Start Screen")
